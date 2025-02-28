@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../components/Header'
 import Steps from '../components/Steps'
-import Discreption from '../components/discreption'
+import Discreption from '../components/Discreption'
 import Testimonial from '../components/Testimonial'
 import GenrateButton from '../components/GenrateButton'
 
